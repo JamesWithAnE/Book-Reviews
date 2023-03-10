@@ -1,0 +1,22 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+img{
+    display: block;
+    width: 500px;
+    height:auto;
+    margin:auto;
+}
+#title1{
+    display:block;
+    width: 225px;
+    margin:auto;
+
+}
+#booklist{
+    display:block;
+    width:300px;
+    margin:auto;
+    text-align: center;
+}
